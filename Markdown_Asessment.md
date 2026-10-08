@@ -21,9 +21,14 @@ if (total > 10) {
     console.log("Add $2 more for a free cookie!);
 }
 ```
-```
-What Customers Are Saying
-"Best chopped cheese in East Harlem, and the **Free cookie** deal is *genuis*!"
-```
+>## What Customers Are Saying
+>"Best chopped cheese in East Harlem, and the **free cookie** deal is *genuis*!"
+
 ## Find Us Online
-Follow our daily location on [Instagram](Instagram), or rea our reviews on [Yelp](https://www.yelp.com/nyc)
+Follow our daily location on [Instagram](https://www.instagram.com/?hl=en), or read our reviews on [Yelp](https://www.yelp.com/nyc)
+
+Want to build an app like ours? Start learning here:
+- [freeCodeCamp](https://www.freecodecamp.org/)
+- [MDN Web Docs](https://developer.mozilla.org/en-US/)
+
+`git push origin main` - the command we run every time we add a new item to the menu!
